@@ -1,0 +1,4 @@
+{
+	"id": "redis",
+	"volume": "/data"
+}
