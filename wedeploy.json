@@ -1,5 +1,7 @@
 {
 	"id": "redis",
 	"image": "redis:3.2.10",
-	"volume": "/data"
+	"volumes": {
+		"data": "/data"
+	}
 }
